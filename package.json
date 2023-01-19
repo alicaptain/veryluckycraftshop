@@ -1,0 +1,19 @@
+{
+  "name": "vl1",
+  "version": "1.0.0",
+  "description": "Very Lucky Craft Shop Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicaptain/veryluckycraftshop.git"
+  },
+  "author": "Ali Guler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicaptain/veryluckycraftshop/issues"
+  },
+  "homepage": "https://github.com/alicaptain/veryluckycraftshop#readme"
+}
